@@ -22,5 +22,6 @@ For KNN:
 ```python
 python main.py --model='knn'
 ```
+There are also notebooks with the results listed as well for each experiment for ease of use.
 
-To be noted the logs of odds and odds ratio were not used as the main bias metric, as the models results made it not possible to calculate.
+To be noted the logs of odds and odds ratio were not used as the main bias metric, as the models results made it not possible to calculate. 
